@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there <img alt="cat face" src="https://emojis.slackmojis.com/emojis/images/1542333943/4945/zany_cat_face.png?1542333943" width="30" />
 
 <!--
 **DeboraBallHor/DeboraBallHor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
