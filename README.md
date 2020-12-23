@@ -1,11 +1,11 @@
-### Hi there <img alt="cat face" src="https://emojis.slackmojis.com/emojis/images/1542333943/4945/zany_cat_face.png?1542333943" width="30" />
-
+### Hi there <img alt="glasses face" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30" />
 <!--
 **DeboraBallHor/DeboraBallHor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Welcome to my page! 
 
-- 🔭 I’m currently working on ...
+My name is Debora, Android developer from São Paulo, Brazil!
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
