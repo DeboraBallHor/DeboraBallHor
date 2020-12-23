@@ -1,7 +1,5 @@
 ### Hi there! <img alt="glasses face" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30" />
 
-🚀 Java | JavaScript | HTML | CSS | Python 🚀
-
 Welcome to my page! 
 
 My name is Debora, Android developer from São Paulo, Brazil!
