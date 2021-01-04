@@ -5,10 +5,14 @@ Welcome to my page!
 
 My name is Debora, Android developer from São Paulo, Brazil!
 
-Where to find me
+**Where to find me**
 <!-- Contatos -->
+<a href="<deh.ballerini@gmail.com/>">
+<img align="right" alt="Debora´s Gmail" width="22px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
 <a href="<https://www.linkedin.com/in/deboraballerinihorta/>">
-<img align="left" alt="Debora´s LinkedIn" width="22px" src="https://brasscom.org.br/wp-content/uploads/2018/02/Icone-Linkedin-1.jpg" />
+<img align="left" alt="Debora´s LinkedIn" width="22px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 <!--
 **DeboraBallHor/DeboraBallHor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
