@@ -5,8 +5,8 @@ Welcome to my page!
 
 My name is Debora, Android developer from São Paulo, Brazil!
 
-**Where to find me**
 <!-- Contatos -->
+**Where to find me**
 <a href="<deh.ballerini@gmail.com/>">
 <img align="right" alt="Debora´s Gmail" width="22px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
