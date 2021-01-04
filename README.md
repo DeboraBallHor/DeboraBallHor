@@ -10,12 +10,11 @@ My name is Debora, Android developer from São Paulo, Brazil!
 <a href="<deh.ballerini@gmail.com/>">
 <img align="left" alt="Debora´s Gmail" width="22px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-<!-- Stacks -->
-<code><img alt="Debora´s Gmail" height="20" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></code>
 <a href="<https://www.linkedin.com/in/deboraballerinihorta/>">
 <img align="right" alt="Debora´s LinkedIn" width="22px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <!-- Stacks -->
+<code><img alt="Debora´s Gmail" height="20" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></code>
 <code><img alt="Debora´s LinkedIn" height="20" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></code>
 <!--
 **DeboraBallHor/DeboraBallHor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
