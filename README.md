@@ -11,11 +11,11 @@ ________________________________________________________________________________
 **Where to find me**
 <!-- Contatos -->
 <a href="<deh.ballerini@gmail.com/>">
-<img align="left" alt="Debora´s Gmail" width="22px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<img align="left" alt="Debora´s Gmail" width="30px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 
 <a href="<https://www.linkedin.com/in/deboraballerinihorta/>">
-<img align="left" alt="Debora´s LinkedIn" width="22px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img align="left" alt="Debora´s LinkedIn" width="30px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
 **My Development Stack**
