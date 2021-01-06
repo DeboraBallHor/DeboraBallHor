@@ -18,6 +18,7 @@ I´m currently learning 👩‍💻 about Web Development to work in Site´s pro
   </a>
 
 <br>
+
 **My social networks**
 
 <!-- Contatos -->
@@ -34,6 +35,7 @@ I´m currently learning 👩‍💻 about Web Development to work in Site´s pro
   </a>
 
 <br>
+
 **My learning stack in development**
   <!-- Stacks -->
 <code><img alt="Java" height="30" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></code>
