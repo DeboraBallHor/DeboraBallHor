@@ -15,11 +15,12 @@ ________________________________________________________________________________
   </a>
 
 <a href="<https://www.linkedin.com/in/deboraballerinihorta/>">
-<img align="left" alt="Debora´s LinkedIn" width="80px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img align="left" alt="Debora´s LinkedIn" width="90px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
 
 ____________________________________________________________________________________________________________________________________________________
+
 
 **My learning stack in development**
   <!-- Stacks -->
@@ -33,18 +34,19 @@ ________________________________________________________________________________
 
 ____________________________________________________________________________________________________________________________________________________
 
+
 **My social networks**
 <!-- Contatos -->
 <a href="<https://twitter.com/deborabhorta/>">
-<img align="left" alt="Debora´s Twitter" width="80px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+<img align="left" alt="Debora´s Twitter" width="90px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
 
 <a href="<https://www.instagram.com/dehballerinihorta/>">
-<img align="left" alt="Debora´s Instagram" width="80px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+<img align="left" alt="Debora´s Instagram" width="90px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   
 <a href="<https://www.facebook.com/debora.bah.9083>">
-<img align="left" alt="Debora´s Facebook" width="80px" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+<img align="left" alt="Debora´s Facebook" width="90px" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
 <!--
 **DeboraBallHor/DeboraBallHor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
