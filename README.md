@@ -17,7 +17,6 @@ ________________________________________________________________________________
 <a href="<https://www.linkedin.com/in/deboraballerinihorta/>">
 <img align="left" alt="Debora´s LinkedIn" width="22px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-____________________________________________________________________________________________________________________________________________________
 
 **My Development Stack**
   <!-- Stacks -->
@@ -26,7 +25,6 @@ ________________________________________________________________________________
 <code>img alt="HTML5" height="22" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></code>
 <code>img alt="CSS3" height="22" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></code>
 <code><img alt="Python" height="22" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></code>
-____________________________________________________________________________________________________________________________________________________
 
 **My social networks**
 <!-- Contatos -->
@@ -41,7 +39,6 @@ ________________________________________________________________________________
 <a href="<https://www.facebook.com/debora.bah.9083>">
 <img align="left" alt="Debora´s Facebook" width="22px" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
-  
 <!--
 **DeboraBallHor/DeboraBallHor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
