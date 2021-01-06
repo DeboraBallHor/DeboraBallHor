@@ -17,10 +17,9 @@ I´m currently learning 👩‍💻 about Web Development to work in Site´s pro
 <img align="left" alt="Debora´s LinkedIn" width="100px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
-
-
-
+<txt align="letf" alt="**My social networks**" />
 **My social networks**
+
 <!-- Contatos -->
 <a href="<https://twitter.com/deborabhorta/>">
 <img align="left" alt="Debora´s Twitter" width="100px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
@@ -33,8 +32,6 @@ I´m currently learning 👩‍💻 about Web Development to work in Site´s pro
 <a href="<https://www.facebook.com/debora.bah.9083>">
 <img align="left" alt="Debora´s Facebook" width="100px" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
-
-
 
 
 **My learning stack in development**
