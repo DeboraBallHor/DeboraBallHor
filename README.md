@@ -7,6 +7,7 @@ My name is Debora, Android developer from São Paulo, Brazil!
 I´m currently learning 👩‍💻 about Web Development to work in Site´s projects for companies!
 
 **Where to find me**
+
 <!-- Contatos -->
 <a href="<deh.ballerini@gmail.com/>">
 <img align="left" alt="Debora´s Gmail" width="80px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -17,6 +18,7 @@ I´m currently learning 👩‍💻 about Web Development to work in Site´s pro
 
 <br>
 **My social networks**
+
 <!-- Contatos -->
 <a href="<https://twitter.com/deborabhorta/>">
 <img align="left" alt="Debora´s Twitter" width="100px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
@@ -30,6 +32,7 @@ I´m currently learning 👩‍💻 about Web Development to work in Site´s pro
 
 <br>
 **My learning stack in development**
+  
   <!-- Stacks -->
 <code><img alt="Java" height="30" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></code>
 <code><img alt="AngularJS" height="30" src="https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white"></code> 
