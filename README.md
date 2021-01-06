@@ -18,6 +18,7 @@ ________________________________________________________________________________
 <img align="left" alt="Debora´s LinkedIn" width="100px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
+____________________________________________________________________________________________________________________________________________________
 
 
 **My social networks**
@@ -34,6 +35,7 @@ ________________________________________________________________________________
 <img align="left" alt="Debora´s Facebook" width="100px" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
 
+____________________________________________________________________________________________________________________________________________________
 
 
 **My learning stack in development**
