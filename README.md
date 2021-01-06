@@ -17,7 +17,7 @@ I´m currently learning 👩‍💻 about Web Development to work in Site´s pro
 <img align="left" alt="Debora´s LinkedIn" width="100px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
-<txt align="letf" alt="**My social networks**" />
+
 **My social networks**
 
 <!-- Contatos -->
