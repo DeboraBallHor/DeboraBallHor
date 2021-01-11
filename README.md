@@ -5,8 +5,10 @@
   </a>
 
 <br>**Welcome to my page!**
+
 <br>My name is Debora Ballerini Horta, Android developer from São Paulo, Brazil!
 <br>I´m currently learning 👩‍💻 about Web Development to work in Site´s projects for companies!
+
 
 <br>**Where to find me**
 
@@ -18,6 +20,7 @@
 <img align="left" alt="Debora´s LinkedIn" width="100px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
+
 <br>**My social networks**
 
 <!-- Contatos -->
@@ -27,6 +30,7 @@
 <a href="<https://www.instagram.com/dehballerinihorta/>">
 <img align="left" alt="Debora´s Instagram" width="100px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
+
 
 <br>**My learning stack in development**
 
