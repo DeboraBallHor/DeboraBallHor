@@ -1,13 +1,9 @@
-### 
-<center>
-**Hi there! I´m Debora!** 😎
+### **Hi there! I´m Debora!** 😎
 
 <a href="mulher programando/>">
 <img aling="center" alt="mulher codando" width="100px" src="https://image.freepik.com/vetores-gratis/programador-freelancer-mulher-personagem-trabalho-computador-pessoal-feminino-profissional-desenvolvedor-web-isolado-no-branco-ilustracao-dos-desenhos-animados_169479-916.jpg" />
   </a>
-____________________________________________________________________________________________________________________________________________
 
-<center>
 **Welcome to my page!** 
 
 My name is Debora, Android developer from São Paulo, Brazil!
