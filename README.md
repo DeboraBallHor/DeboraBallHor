@@ -4,12 +4,12 @@
 <img aling="center" alt="mulher codando" width="100px" src="https://image.freepik.com/vetores-gratis/programador-freelancer-mulher-personagem-trabalho-computador-pessoal-feminino-profissional-desenvolvedor-web-isolado-no-branco-ilustracao-dos-desenhos-animados_169479-916.jpg" />
   </a>
 
-**Welcome to my page!** 
+<br>**Welcome to my page!**
 
 My name is Debora, Android developer from São Paulo, Brazil!
 I´m currently learning 👩‍💻 about Web Development to work in Site´s projects for companies!
 
-**Where to find me**
+<br>**Where to find me**
 
 <!-- Contatos -->
 <a href="<deh.ballerini@gmail.com/>">
@@ -19,7 +19,7 @@ I´m currently learning 👩‍💻 about Web Development to work in Site´s pro
 <img align="left" alt="Debora´s LinkedIn" width="100px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
-**My social networks**
+<br>**My social networks**
 
 <!-- Contatos -->
 <a href="<https://twitter.com/deborabhorta/>">
@@ -29,9 +29,9 @@ I´m currently learning 👩‍💻 about Web Development to work in Site´s pro
 <img align="left" alt="Debora´s Instagram" width="100px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 
-**My learning stack in development**
+<br>**My learning stack in development**
   
-  <!-- Stacks -->
+<!-- Stacks -->
 <code><img alt="Java" height="30" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></code>
 <code><img alt="AngularJS" height="30" src="https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white"></code> 
 <code><img alt="JavaScript" height="30" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></code>
