@@ -1,10 +1,8 @@
-### **Hi there! I´m Debora!** 😎
+### **Hi there! Welcome to my page!** 😎
 
 <a href="mulher programando/>">
 <img aling="center" alt="mulher codando" width="200px" src="https://image.freepik.com/vetores-gratis/programador-freelancer-mulher-personagem-trabalho-computador-pessoal-feminino-profissional-desenvolvedor-web-isolado-no-branco-ilustracao-dos-desenhos-animados_169479-916.jpg" />
   </a>
-
-<br>**Welcome to my page!**
 
 <br>My name is Debora Ballerini Horta, Android developer from São Paulo, Brazil!
 <br>I´m currently learning 👩‍💻 about Web Development to work in Site´s projects for companies!
@@ -32,7 +30,7 @@
   </a>
 
 
-<br>**My learning stack in development**
+<br>⚙️ **Technologies and Tools** ⚙️
 
 <!-- Stacks -->
 <code><img alt="Java" height="30" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></code>
