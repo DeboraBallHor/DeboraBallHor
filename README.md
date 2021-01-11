@@ -7,7 +7,7 @@
 <br>I´m currently learning 👩‍💻 about Web Development to work in Site´s projects for companies!
 
 
-<br>**Where to find me**
+<br>📩 **Where to find me** 
 
 <!-- Contatos -->
 <a href="<deh.ballerini@gmail.com/>">
@@ -18,7 +18,7 @@
   </a>
 
 
-<br>**My social networks**
+<br>📲 **My social networks**
 
 <!-- Contatos -->
 <a href="<https://twitter.com/deborabhorta/>">
@@ -29,7 +29,7 @@
   </a>
 
 
-<br>⚙️ **Technologies and Tools** ⚙️
+<br>⚙️ **Technologies and Tools** 
 
 <!-- Stacks -->
 <code><img alt="Java" height="30" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></code>
