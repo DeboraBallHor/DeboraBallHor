@@ -5,7 +5,8 @@
   </a>
 
 <br>**Welcome to my page!**
-My name is Debora, Android developer from São Paulo, Brazil!
+
+<br>My name is Debora, Android developer from São Paulo, Brazil!
 <br>I´m currently learning 👩‍💻 about Web Development to work in Site´s projects for companies!
 
 <br>**Where to find me**
