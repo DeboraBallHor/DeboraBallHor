@@ -3,8 +3,7 @@
 **Hi there! I´m Debora!** 😎
   
 <img alt="mulher codando" src="https://image.freepik.com/vetores-gratis/programador-freelancer-mulher-personagem-trabalho-computador-pessoal-feminino-profissional-desenvolvedor-web-isolado-no-branco-ilustracao-dos-desenhos-animados_169479-916.jpg" width="30px"/>
-  
-</center>
+
 ____________________________________________________________________________________________________________________________________________
 
 <center>
@@ -17,10 +16,10 @@ I´m currently learning 👩‍💻 about Web Development to work in Site´s pro
 
 <!-- Contatos -->
 <a href="<deh.ballerini@gmail.com/>">
-<img align="center" alt="Debora´s Gmail" width="80px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<img align="left" alt="Debora´s Gmail" width="80px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 <a href="<https://www.linkedin.com/in/deboraballerinihorta/>">
-<img align="center" alt="Debora´s LinkedIn" width="100px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img align="left" alt="Debora´s LinkedIn" width="100px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
 <br>
@@ -28,10 +27,10 @@ I´m currently learning 👩‍💻 about Web Development to work in Site´s pro
 
 <!-- Contatos -->
 <a href="<https://twitter.com/deborabhorta/>">
-<img align="center" alt="Debora´s Twitter" width="100px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+<img align="left" alt="Debora´s Twitter" width="100px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
 <a href="<https://www.instagram.com/dehballerinihorta/>">
-<img align="center" alt="Debora´s Instagram" width="100px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+<img align="left" alt="Debora´s Instagram" width="100px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 
 <br>
@@ -45,8 +44,6 @@ I´m currently learning 👩‍💻 about Web Development to work in Site´s pro
 <code><img alt="CSS3" height="30" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></code>
 <code><img alt="Python" height="30" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></code>
 <code><img alt="Kotlin" height="30" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"></code>
-
-</center>
 
 <!--
 **DeboraBallHor/DeboraBallHor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
