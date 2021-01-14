@@ -26,7 +26,7 @@
 <img align="left" alt="Debora´s Twitter" width="100px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
 <a href="<https://www.instagram.com/dehballerinihorta/>">
-<img align="left" alt="Debora´s Instagram" width="100px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+<img align="left" alt="Debora´s Instagram" width="110px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 
 <br>
