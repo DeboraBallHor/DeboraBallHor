@@ -14,7 +14,7 @@
 <img align="left" alt="Debora´s Gmail" width="80px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 <a href="<https://www.linkedin.com/in/deboraballerinihorta/>">
-<img align="left" alt="Debora´s LinkedIn" width="110px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img align="left" alt="Debora´s LinkedIn" width="100px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   
   <br>
