@@ -7,7 +7,7 @@
 <br>I´m currently learning 👩‍💻 about Web Development to work in Site´s projects for companies!
 
 
-<br>📩 **Where to find me**<br>
+<br>📩 **Where to find me**
 
 <!-- Contatos -->
 <a href="<deh.ballerini@gmail.com/>">
@@ -16,6 +16,8 @@
 <a href="<https://www.linkedin.com/in/deboraballerinihorta/>">
 <img align="left" alt="Debora´s LinkedIn" width="100px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  
+  <br>
 
 <br>📲 **My social networks**
 
