@@ -4,7 +4,7 @@
 <img aling="center" alt="mulher codando" width="200px" src="https://image.freepik.com/vetores-gratis/programador-freelancer-mulher-personagem-trabalho-computador-pessoal-feminino-profissional-desenvolvedor-web-isolado-no-branco-ilustracao-dos-desenhos-animados_169479-916.jpg" />
   </a>
 <br>My name is Debora Ballerini Horta, Android developer from São Paulo, Brazil!
-<br>I´m currently learning 👩‍💻 about Web Development to work for internet sites and apps for companies!
+<br>I´m currently learning 👩‍💻 about Web Development to create internet apps and sites for entrepreneurs, brands and companies are starting in job market!
 
 
 <br>📩 **Where to find me**
